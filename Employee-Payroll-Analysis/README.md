@@ -52,3 +52,8 @@ python main.py
 ## Live Streamlit deployment
 
 https://employee-payroll-analysis-sdtw4czfwjcksrtzypxbk5.streamlit.app/
+
+## Execution evidence
+
+- [Pseudocode](PSEUDOCODE.md)
+- [Terminal run screenshot](terminal-output.png)
