@@ -58,3 +58,8 @@ python main.py
 ## Live Streamlit deployment
 
 https://campus-event-financial-planning-jlddqsntydp94rxtkbcvhy.streamlit.app/
+
+## Execution evidence
+
+- [Pseudocode](PSEUDOCODE.md)
+- [Terminal run screenshot](terminal-output.png)
