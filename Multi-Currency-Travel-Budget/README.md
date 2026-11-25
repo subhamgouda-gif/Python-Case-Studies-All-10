@@ -54,3 +54,8 @@ python main.py
 ## Live Streamlit deployment
 
 https://multi-currency-travel-budget-leyjxra3n2zftcvwycdlhf.streamlit.app/
+
+## Execution evidence
+
+- [Pseudocode](PSEUDOCODE.md)
+- [Terminal run screenshot](terminal-output.png)

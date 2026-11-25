@@ -56,3 +56,8 @@ python main.py
 ## Live Streamlit deployment
 
 https://railway-fare-reservation-abfugneccsuk2wqnenw46d.streamlit.app/
+
+## Execution evidence
+
+- [Pseudocode](PSEUDOCODE.md)
+- [Terminal run screenshot](terminal-output.png)

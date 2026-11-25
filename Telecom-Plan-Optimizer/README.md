@@ -54,3 +54,8 @@ python main.py
 ## Live Streamlit deployment
 
 https://telecom-plan-optimizer-xev5ndbkbjgxwxhfo8w6s7.streamlit.app/
+
+## Execution evidence
+
+- [Pseudocode](PSEUDOCODE.md)
+- [Terminal run screenshot](terminal-output.png)

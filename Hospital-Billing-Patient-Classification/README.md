@@ -59,3 +59,8 @@ python main.py
 ## Live Streamlit deployment
 
 https://hospital-billing-patient-classification-7ghuwuf6qys5d9pqwy4qgy.streamlit.app/
+
+## Execution evidence
+
+- [Pseudocode](PSEUDOCODE.md)
+- [Terminal run screenshot](terminal-output.png)

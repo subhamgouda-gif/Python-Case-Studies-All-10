@@ -54,3 +54,8 @@ python main.py
 ## Live Streamlit deployment
 
 https://retail-billing-discounts-ntlnbfgwjappdmnhrnketbr.streamlit.app/
+
+## Execution evidence
+
+- [Pseudocode](PSEUDOCODE.md)
+- [Terminal run screenshot](terminal-output.png)

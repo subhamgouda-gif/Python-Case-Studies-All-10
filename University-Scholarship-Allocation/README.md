@@ -55,3 +55,8 @@ python main.py
 ## Live Streamlit deployment
 
 https://university-scholarship-allocation-unzqdqeavixsan4khjprrs.streamlit.app/
+
+## Execution evidence
+
+- [Pseudocode](PSEUDOCODE.md)
+- [Terminal run screenshot](terminal-output.png)

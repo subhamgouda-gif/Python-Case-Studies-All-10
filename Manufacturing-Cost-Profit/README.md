@@ -52,3 +52,8 @@ python main.py
 ## Live Streamlit deployment
 
 https://manufacturing-cost-profit-7er8wzs3bp7q3lnjqhnhuo.streamlit.app/
+
+## Execution evidence
+
+- [Pseudocode](PSEUDOCODE.md)
+- [Terminal run screenshot](terminal-output.png)
